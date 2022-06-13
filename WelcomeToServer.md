@@ -4,6 +4,7 @@
 - Go to https://mee6.xyz/login?from=/dashboard
 - Go to the server you want to use
 - Setup the welcome message
+- - "Send a message when the user joins the server"
 
 ## Rules
 - Make a channel called &#35;rules
