@@ -28,3 +28,5 @@
 - - "Add Reactions" "Yes"
 - - "Use External Emoji" "Yes"
 - - "Read Message History" "Yes"
+
+yagpdb.xyz
