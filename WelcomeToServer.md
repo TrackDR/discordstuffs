@@ -29,4 +29,4 @@
 - - "Use External Emoji" "Yes"
 - - "Read Message History" "Yes"
 
-yagpdb.xyz
+yagpdb.xyz for roles
