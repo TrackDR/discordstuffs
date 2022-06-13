@@ -1,13 +1,14 @@
 # Welcoming someone to your server using Mee6
 
 ## Mee6
-- Invite Mee6
+- Go to https://mee6.xyz/login?from=/dashboard
+- Go to the server you want to use
+- Setup the welcome message
 
 ## Rules
 - Make a channel called &#35;rules
 - Add a post with some rules
 - Add a post that says "Click on the emoji to agree to the rules and see the other channels"
-- 
 
 ## Welcome
 - Make a channel called &#35;welcome
