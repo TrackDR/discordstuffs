@@ -7,5 +7,5 @@
 - Make a channel called &#35;welcome
 - Go to "Edit Channel", "Permissions", "Advanced Permissions"
 - @everyone Permissions
-- - "View Channels" "No"
+-- "View Channels" "No"
 - Set "View Channels" for @ourusers to "Yes"
